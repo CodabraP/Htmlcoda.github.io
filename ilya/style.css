@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap&subset=cyrillic,cyrillic-ext');
+body{background:rgba(5, 20, 68, 0.616)}
+.title {
+    background: black;
+    color: white;
+    font-family: 'Lobster', cursive;
+    height: 15%;
+    padding: 2%;
+    width: 55%
+}
+.button{
+    background: rgb(230, 223, 223);
+    color: black;
+    font-family: 'Lobster', cursive;
+    height: 60%;
+    margin: 3%;
+    display: inline-block;
+    width: 25%;
+    vertical-align: top ;
+}
+.menu {
+    background: rgb(0, 0, 0);
+    margin: 3%;
+}
+.pic {
+    width: 100%
+}
+.info1 {
+    display: inline-block;
+    font-family: 'Lobster', cursive;
+    margin: 6%
+}
+.info2{
+    display: inline-block;
+    font-family: 'Lobster', cursive;
+    margin: 3%
+}
+
+
+
